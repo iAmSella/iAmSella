@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iAmSella
 - 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently learning Python
+- 💻 I’m currently learning React.js
 - 📬 You can contact me on instagram @sell4__
 
 <!---
